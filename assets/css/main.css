@@ -235,6 +235,11 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+	.actions a{
+		display: flex;
+		justify-content: center;
+		padding-top: 20px;
+	}
 
 /* Row */
 
